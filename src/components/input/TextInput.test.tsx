@@ -10,7 +10,7 @@ test('TextInput Component test', async () => {
     expect(inputElement).toBeInTheDocument()
 })
 
-test('TextInput Event test mod!', async () => {
+test('TextInput Event test mod!!', async () => {
     const user = userEvent.setup()
     render(<TextInput />)
 
